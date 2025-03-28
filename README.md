@@ -9,3 +9,4 @@
 개발 인원 : 5명(개발 3 / 디자인 2)
 
 내용 : PPT 링크 참조 ↓↓↓↓↓
+https://drive.google.com/drive/folders/1GSzQuWxKr6_5eZTfiryPaVrQVFLApeQ6
