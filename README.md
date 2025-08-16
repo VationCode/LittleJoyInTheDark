@@ -12,4 +12,5 @@ UnityLearn 프로젝트 기반 추가 창작형
 
 영상 : https://youtu.be/9zcaN16-MHc
 
-![Uploading ChatGPT Image 2025년 8월 16일 오후 04_34_14.png…]()
+![Uploading image.png…]()
+
