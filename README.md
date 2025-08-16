@@ -4,8 +4,6 @@
 
 장르 : 3D Stealth game
 
-UnityLearn 프로젝트 기반 추가 창작형
-
 버전 : 6.0이상 업데이트
 
 기획 : https://drive.google.com/drive/folders/1GSzQuWxKr6_5eZTfiryPaVrQVFLApeQ6
