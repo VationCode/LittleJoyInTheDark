@@ -9,6 +9,3 @@
 기획 : https://drive.google.com/drive/folders/1GSzQuWxKr6_5eZTfiryPaVrQVFLApeQ6
 
 영상 : https://youtu.be/9zcaN16-MHc
-
-![Uploading image.png…]()
-
