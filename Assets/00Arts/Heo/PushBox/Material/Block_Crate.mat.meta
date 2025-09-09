@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b95d8ce5dff3b34487dc45cd4fb045f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/CompleteGame/Material/Block_Crate.mat
+  uploadId: 562291

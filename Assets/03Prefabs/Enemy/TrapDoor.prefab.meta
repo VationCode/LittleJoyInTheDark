@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2651a8aeaac40cc44935b9eb3fd5c774
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192201
+  packageName: Unity's Visual Scripting Tutorial
+  packageVersion: 1.2
+  assetPath: Assets/VisualScriptingTutorial/Tutorial/Prefabs/CellObjects/TrapDoor.prefab
+  uploadId: 562291
