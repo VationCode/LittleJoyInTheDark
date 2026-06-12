@@ -20,26 +20,12 @@ YouTube : https://youtu.be/T8vrjyn0rIE?si=2yDw_S3FvErB0Shu
 - 시야 각 감지 방식을 활용한 플래시 스킬
 - Navmesh AI를 통한 적들 경로 순찰
 
+
 ## [ 씬 아키텍처 ]
-Stage1Scene
-
-
-   ↓
-
-   
-BootScene
-
-
-   ↓
-
-   
-Stage2Scene
-
-
-   ↓
-
-   
-CreditScene
+- Stage1Scene
+- BootScene 
+- Stage2Scene 
+- CreditScene
 
 
 ## [ 도전과 고민 ]
