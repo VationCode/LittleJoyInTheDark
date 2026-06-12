@@ -1,40 +1,37 @@
 # Little-Joy-in-the-Dark
+## [ 프로젝트 개요 ]
+- 스테이지 기반의 3인칭 탈출 게임
+- 다양한 탈출 기믹을 통해 스테이지마다 차별화된 플레이 경험 제공
+- 초기 버전은 취업 연계 프로그램의 팀 프로젝트로 개발
+- 이후 개인 프로젝트로 전환하여 아키텍처 개선, 시스템 리팩토링 및 신규 콘텐츠 개발 진행
 
-Unity 6 기반의 TPS 루터슈터 프로젝트입니다.
-FSM 아키텍처와 Photon PUN2를 활용하여 플레이어, AI, 전투 및 멀티플레이 시스템을 구현했습니다.
 
-🛠 Tech Stack
-Unity 6
-C#
-Photon PUN2
-Addressables
-Animation Rigging
-NavMesh
-🎯 주요 기능
-TPS 플레이어 컨트롤
-조준 및 사격 시스템
-무기 및 재장전 시스템
-FSM 기반 AI
-Photon PUN2 멀티플레이
-Addressables 기반 리소스 관리
-🏗 Architecture
+## [ 데모 영상 ]
+YouTube : https://youtu.be/T8vrjyn0rIE?si=2yDw_S3FvErB0Shu
+
+## [ 개발 환경 ]
+- Unity 6
+- c#
+
+
+## [ 주요 기능 ]
+- 시네머신 활용 카메라 추적, 카메라 전환
+- 포스트프로세싱 활용 연출
+- 시야 각 감지 방식을 활용한 플래시 스킬
+- Navmesh AI를 통한 적들 경로 순찰
+
+## [ 씬 아키텍처 ]
+Stage1Scene
+   ↓
 BootScene
    ↓
-LobbyScene
+Stage2Scene
    ↓
-InGameScene
-🚀 기술적 도전
-FSM을 활용한 상태 관리 구조 설계
-Photon PUN2 기반 멀티플레이 동기화
-Addressables를 통한 에셋 관리 및 로딩 최적화
-BootScene 기반 초기화 구조 구축
-📷 Gameplay
+CreditScene
 
 
+## [ 도전과 고민 ]
+- 플레이어컨트롤러에서의 기능 분류 설계 고민
+- 애니메이션의 자연스러운 연결
+- 스테이지 진행 기획
 
-
-🎥 Demo
-YouTube : 링크 첨부
-👨‍💻 Developer
-GitHub : https://github.com/your-id
-Email : your-email@example.com
