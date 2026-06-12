@@ -22,11 +22,23 @@ YouTube : https://youtu.be/T8vrjyn0rIE?si=2yDw_S3FvErB0Shu
 
 ## [ 씬 아키텍처 ]
 Stage1Scene
+
+
    ↓
+
+   
 BootScene
+
+
    ↓
+
+   
 Stage2Scene
+
+
    ↓
+
+   
 CreditScene
 
 
